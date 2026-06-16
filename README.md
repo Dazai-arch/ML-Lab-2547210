@@ -36,8 +36,6 @@ Build and evaluate Simple Linear Regression models to predict a student's GPA us
 - Generate statistical summary for `CIA_pct`, `Attendance_pct`, `GPA`
 - Visualizations:
   - Histograms — feature distributions
-  - Scatter plots — CIA % vs GPA, Attendance % vs GPA
-  - Boxplots — outlier detection
 - Save cleaned data to `Student_Survey_Cleaned.csv`
 
 ### Part B — Simple Linear Regression (Scikit-learn)
@@ -50,6 +48,8 @@ Two experiments using `LinearRegression` from `sklearn`:
 | Train/Test split | 80/20, `random_state=42` | 80/20, `random_state=42` |
 
 Outputs per experiment: slope, intercept, regression equation, MSE, RMSE, R².
+- Visualization
+  - Scatter plots — CIA % vs GPA, Attendance % vs GPA
 
 ### Part C — Manual OLS
 Manually derive slope and intercept using the OLS formulas:
