@@ -6,7 +6,7 @@ A from-scratch (NumPy-only) implementation of **Linear Regression trained with B
 
 | File | Description |
 |---|---|
-| `student_performance_gd_linear_regression.ipynb` | Main notebook (fully executed, with outputs) |
+| `lab5.ipynb` | Main notebook (fully executed, with outputs) |
 | `student-por.csv` | Input dataset (semicolon-separated) |
 
 ## Dataset
