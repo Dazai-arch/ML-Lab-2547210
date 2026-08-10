@@ -6,9 +6,8 @@ Support Vector Machine (SVM) classification on the Breast Cancer Wisconsin datas
 
 ```
 ├── lab9.ipynb          # Main notebook
-└── data/
-    ├── wdbc.data        # Breast Cancer Wisconsin (Diagnostic) dataset
-    └── wine.data         # Wine dataset
+├── wdbc.data        # Breast Cancer Wisconsin (Diagnostic) dataset
+└── wine.data         # Wine dataset
 ```
 
 ## Requirements
